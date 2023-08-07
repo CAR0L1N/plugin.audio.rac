@@ -1,1 +1,1 @@
-# plugin.audio.nsm88
+# Musik Plugin für das XBMC (Schwerpunkt: Deutsch-Rock)
